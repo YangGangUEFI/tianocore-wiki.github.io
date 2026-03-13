@@ -1,6 +1,6 @@
 # Who We Are
 
-![TianoCore Logo](../../images/TianoCoreLogo.png)
+![TianoCore Logo](../../images/tianocorelogo.png)
 
 ## TianoCore Open Source Community
 
